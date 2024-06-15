@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, VStack, Text, Button, HStack, Box, Input, FormControl, FormLabel, Select, IconButton, useToast } from "@chakra-ui/react";
+import Navigation from "../components/Navigation";
 import { FaFileAlt, FaPlus, FaTrash, FaEdit } from "react-icons/fa";
 
 const Index = () => {
